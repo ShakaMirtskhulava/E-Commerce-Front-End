@@ -11,11 +11,11 @@ Welcome to the Tech Online Shop repository! This project focuses on creating an 
 ## Getting Started
 To run the Tech Online Shop project locally, follow these steps:
 
-*Clone this repository to your local machine.
-*Set up a local web server environment (e.g., Apache, Nginx, XAMPP, or WAMP) with PHP support.
-*Open the project directory in your preferred code editor.
-*Configure the database connection details in the PHP files, if required.
-*Start your local web server and access the project through the server's URL.
+* Clone this repository to your local machine.
+* Set up a local web server environment (e.g., Apache, Nginx, XAMPP, or WAMP) with PHP support.
+* Open the project directory in your preferred code editor.
+* Configure the database connection details in the PHP files, if required.
+* Start your local web server and access the project through the server's URL.
 
 License
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code in accordance with the terms of this license.
